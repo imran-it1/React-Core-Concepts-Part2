@@ -18,7 +18,7 @@ function App() {
   }
   // Functiom With Parameter
 
-  const addFive = (num) => {
+  const addFive = (num) => { 
     alert(num + 5);
   }
   return (
